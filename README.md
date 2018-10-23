@@ -9,6 +9,7 @@ Die Szene kann man Forken. Erstellt ist das Projekt mit der **Unity 3D 2018.2.11
 3. Skripte
 
    3. [Teleport](https://github.com/Polygonschmiede/Snippet/blob/master/Assets/Scripts/Teleport.cs)
+   3. [Snapping](https://github.com/Polygonschmiede/Snippet/blob/master/Assets/Scripts/Snapping.cs)
 ### Links
 Oculus Controller Mapping [Link.](https://developer.oculus.com/documentation/unity/latest/concepts/unity-ovrinput/)
 
